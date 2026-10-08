@@ -18,7 +18,7 @@ face_mesh = mp.solutions.face_mesh.FaceMesh(
 )
 
 cam = cv2.VideoCapture(0)
-
+#Holaaa
 # Thresholds 
 eye_opening_threshold = 0.025
 mouth_open_threshold = 0.03
